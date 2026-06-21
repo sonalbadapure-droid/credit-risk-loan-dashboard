@@ -74,7 +74,7 @@ Turned the analysis into concrete lending-policy recommendations:
 credit-risk-loan-dashboard/
 ├── credit_risk_dashboard.pbix     # Power BI dashboard file
 ├── notebooks/
-│   └── eda.ipynb                  # Exploratory data analysis
+│   └── Credit_risk.ipynb           # Exploratory data analysis
 ├── data/
 │   └── credit_risk_dataset.csv    # Source dataset (Kaggle)
 ├── screenshots/
